@@ -539,7 +539,7 @@ const getPostById = (id: string) => {
              🌟 My Thoughts:
              Building this project was an exciting opportunity to design a stylish and functional platform for fashion enthusiasts The goal was to create a seamless shopping experience that combines aesthetics with practicality and I am proud of how it turned out! 💻🎉 `,
              imageUrl: '/images/cloth.webp',
-            projectLink: ''
+            projectLink: 'https://new-e-commerce-4d2v.vercel.app/'
             
           },
   ];

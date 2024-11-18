@@ -18,7 +18,7 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="bg-black text-white shadow-md sticky top-0 z-10 border-b border-gray-600">
+    <nav className="bg-black text-white shadow-md sticky top-0 z-20 border-b border-gray-600">
       <div className="max-w-6xl mx-auto px-6 sm:px-12 flex justify-between items-center py-4">
         
         {/* Logo Section */}
